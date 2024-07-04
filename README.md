@@ -1,4 +1,6 @@
 
+[中文](README_ZH.md)
+
 ### online preview
 
 - https://intersectionobserver.douyintool.me/
