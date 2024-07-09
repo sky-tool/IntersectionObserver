@@ -67,7 +67,7 @@ intersectionCallback = (entries) => {
     box.querySelector(".topRight").innerHTML = visiblePct;
     box.querySelector(".bottomLeft").innerHTML = visiblePct;
     box.querySelector(".bottomRight").innerHTML = visiblePct;
-
+    console.log(entry.target + visiblePct)
   });
 };
 
